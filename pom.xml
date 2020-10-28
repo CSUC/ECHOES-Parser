@@ -213,7 +213,7 @@
 		<jersey.version>2.29</jersey.version>
 		<cobertura.maven.plugin>2.7</cobertura.maven.plugin>
 		<junit.version>4.12</junit.version>
-		<log4j2.version>2.11.1</log4j2.version>
+		<log4j2.version>2.13.3</log4j2.version>
 		<args4j.version>2.33</args4j.version>
 		<saxon.he.version>9.9.0-1</saxon.he.version>
 		<commons.lang3.version>3.8.1</commons.lang3.version>
