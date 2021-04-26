@@ -217,7 +217,7 @@
 		<args4j.version>2.33</args4j.version>
 		<saxon.he.version>9.9.0-1</saxon.he.version>
 		<commons.lang3.version>3.8.1</commons.lang3.version>
-		<commons.io.version>2.6</commons.io.version>
+		<commons.io.version>2.7</commons.io.version>
 		<jackson.core.dataformat.xml.version>2.9.7</jackson.core.dataformat.xml.version>
 		<jackson.core.annotations.version>2.10.0.pr2</jackson.core.annotations.version>
 		<jackson.core.version>2.10.0.pr2</jackson.core.version>
