@@ -20,7 +20,7 @@
     <url>http://maven.apache.org</url>
 
     <properties>
-        <httpcomponents.httpclient.version>4.5.9</httpcomponents.httpclient.version>
+        <httpcomponents.httpclient.version>4.5.13</httpcomponents.httpclient.version>
         <httpcomponents.httpcore.version>4.4.9</httpcomponents.httpcore.version>
         <woodstox.core.asl.version>4.4.1</woodstox.core.asl.version>
     </properties>
